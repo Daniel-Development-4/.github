@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="./profile/logo.png" alt="D&D Logo" width="150"/>
+  <img src="./logo.png" alt="D&D Logo" width="150"/>
 </p>
 
 # Daniel-Development-4 (D&D)
