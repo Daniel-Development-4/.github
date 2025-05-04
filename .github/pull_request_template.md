@@ -22,7 +22,7 @@ Please describe your changes concisely and clearly. Include the purpose of the P
 
 Please review the implementation and provide any feedback. If you need a specific type of pull request as a reference (e.g., a bug fix, feature, or refactor), you can check the examples stored in the following directory:
 
-**`/.github/pull_request_templates/`**
+**`https://github.com/Daniel-Development-4/.github/tree/main/.github/PULL_REQUEST_TEMPLATE`**
 
 This folder contains various PR templates that you can copy and use as a base. These serve as guides for structure, tone, and expected detail depending on the type of work you're submitting.
 
