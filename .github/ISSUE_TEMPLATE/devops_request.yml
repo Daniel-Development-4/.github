@@ -1,14 +1,9 @@
 name: "🛠️ DevOps / CI"
 description: Report or request changes in CI/CD pipelines, GitHub Actions, or automation scripts.
-title: "[CI/CD] "
+title: "[CI/CD] - <short description> "
 labels: ["ci", "devops"]
 assignees: []
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Use this form to report issues or propose improvements to the DevOps pipeline, automation workflows, deployment strategies, or GitHub Actions.
-
   - type: dropdown
     id: area
     attributes:

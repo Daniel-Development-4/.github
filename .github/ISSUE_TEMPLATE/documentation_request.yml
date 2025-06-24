@@ -1,14 +1,9 @@
 name: "📘 Documentation"
 description: Report issues or propose improvements for the project's documentation.
-title: "[Docs] "
+title: "[Docs] - <short description> "
 labels: ["documentation"]
 assignees: []
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Please use this form to propose a new documentation section, improve existing content, or suggest structure changes (README, Wiki, static site, etc).
-
   - type: dropdown
     id: section
     attributes:

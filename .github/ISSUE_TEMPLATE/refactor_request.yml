@@ -1,14 +1,9 @@
 name: "🔧 Refactor / Optimization"
 description: Suggest refactoring or performance improvements to the codebase.
-title: "[Refactor] "
+title: "[Refactor] - <short description> "
 labels: ["refactor"]
 assignees: []
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Use this form to propose improvements to code quality, structure, or performance. This includes duplicated code, legacy migration, or optimization tasks.
-
   - type: dropdown
     id: scope
     attributes:
